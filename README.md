@@ -1,6 +1,6 @@
-# Asynchronous Tasks with FastAPI and Celery
+# fastapi-mongodb-samples-projects
 
-Example of how to handle background processes with FastAPI, Celery, and Docker.
+Sample Projects to get started with FAST-API, Celery, MongoDB, ReactJS and Docker.
 
 ### Quick Start
 
@@ -11,4 +11,4 @@ $ docker-compose up -d --build
 ```
 
 Open your browser to [http://localhost:8004](http://localhost:8004)
-# fastapi-mongodb-samples-projects
+
